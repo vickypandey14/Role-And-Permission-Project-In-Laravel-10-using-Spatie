@@ -1,0 +1,5 @@
+1) laravel 10 install 
+2) breeze install 
+3) Role and preveliize (User add, update, delete)
+4) data show in users table
+5) permission (users add, user edit, delete)
